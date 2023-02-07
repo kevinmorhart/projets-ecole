@@ -1,0 +1,6 @@
+str()
+int()
+float()
+bool()
+tuple()
+list()

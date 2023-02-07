@@ -1,0 +1,4 @@
+int() convertit un type de données en nombre entier
+type() retourne le type de données
+la conversion est requise pour exécuter les opérations //, %, /
+/ = division simple, // = division euclidienne, % = reste de la division euclidienne
